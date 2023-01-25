@@ -10,7 +10,7 @@ const ProjectsContainer = () => {
         voluptas assumenda dignissimos inventore, saepe mollitia repellat odio,
         voluptate, alias consequatur.
       </p>
-      <a href="#" className="btn">
+      <a href="https://github.com/leticea?tab=repositories" className="btn">
         Ver Projetos
       </a>
     </section>
