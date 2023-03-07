@@ -8,11 +8,11 @@
 <br>
 
 <p align="center">
-  <img alt="portfolio" src=".github/image.png">
+  <img alt="" src=".github/image.png">
 </p>
 
 <p align="center">
-  <img alt="portfolio" src=".github/image2.png">
+  <img alt="" src=".github/image2.png">
 </p>
 
 ## Portfolio
